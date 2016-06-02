@@ -1,6 +1,0 @@
-framework module Pods_GSignInTests {
-  umbrella header "Pods-GSignInTests-umbrella.h"
-
-  export *
-  module * { export * }
-}

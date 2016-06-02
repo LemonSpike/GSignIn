@@ -36,5 +36,15 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.1067396736209-2g6n50ktulcep3t5a8epu83620acqumt</string>
+				<string>com.appcoda.gsignin</string>
+			</array>
+		</dict>
+	</array>
 </dict>
 </plist>
